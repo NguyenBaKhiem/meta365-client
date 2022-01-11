@@ -1,0 +1,20 @@
+export const colors = {
+    white: "#FFFFFF",
+    primary:  "#166CF6",
+    accent: "#00B67F",
+    background: "#111111",
+    second_bg: "#1E2027",
+    text_header: "#F5F5F5",
+    text_body: "#C0C0C0",
+    new_text_body:"#646F9A",
+    button: "#ececec",
+    red: "#F26464",
+    gradient_text: "linear-gradient(180deg, #166CF6 0%, #FFFFFF 100%)",
+    new_button: "linear-gradient(214.02deg, #4285F4 6.04%, #5B1AE4 92.95%)",
+    third_bg: "rgba(255, 255, 255, 0.1)",
+    new_primary: "#4285F4",
+    sub_text: "#646F9A",
+    background2: "#1D2852",
+    text: "#F6F9FF",
+    secondary: "#FBBC05"
+}

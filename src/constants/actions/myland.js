@@ -1,0 +1,3 @@
+export const MYLAND_ACTIONS = {
+    CHANGE_MYLAND_TYPE: "CHANGE_MYLAND_TYPE"
+}

@@ -1,0 +1,4 @@
+export const MENU_ACTIONS = {
+    SHOW_SIDEBAR: "SHOW_SIDEBAR",
+    HIDE_SIDEBAR: "HIDE_SIDEBAR"
+}

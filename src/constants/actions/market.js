@@ -1,0 +1,3 @@
+export const MARKET_ACTIONS = {
+    CHANGE_SALE_TYPE: "CHANGE_SALE_TYPE"
+}
